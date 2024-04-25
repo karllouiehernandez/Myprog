@@ -1,0 +1,43 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 22 April 2024 02:58:45 (UTC)
+# Number of unique domains: 127,148
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
+
+v16a.tiktokcdn.com
+ib.tiktokv.com
+v16m.tiktokcdn.com
+api.tiktokv.com
+log.tiktokv.com
+api2-16-h2.musical.ly
+mon.musical.ly
+p16-tiktokcdn-com.akamaized.net
+api-h2.tiktokv.com
+v19.tiktokcdn.com
+api2.musical.ly
+log2.musical.ly
+api2-21-h2.musical.ly
+
+# End yoyo.org
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
